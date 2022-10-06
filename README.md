@@ -1,5 +1,5 @@
 # MAUIDemo
-### Unordered Lista
+### Megtekintett források
 - https://www.youtube.com/watch?v=Hh279ES_FNQ&list=PLdo4fOcmZ0oUBAdL2NwBpDs32zwGqb9DY
 - https://learn.microsoft.com/en-us/dotnet/maui/get-started/first-app?tabs=vswin&pivots=devices-android
 - https://learn.microsoft.com/en-us/dotnet/maui/tutorials/notes-app/?tutorial-step=5
